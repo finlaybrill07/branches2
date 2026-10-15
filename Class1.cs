@@ -38,7 +38,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Grade: Fail");
+            Console.WriteLine("Grade: D");
         }
 
         Console.WriteLine("\nPress any key to exit.");
